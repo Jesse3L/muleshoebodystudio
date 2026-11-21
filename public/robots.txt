@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muleshoebodystudio.com/sitemap-index.xml
