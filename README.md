@@ -1,6 +1,6 @@
 # Muleshoe Body Studio
 
-Landing page for Muleshoe Body Studio — invisa-RED™ red light laser treatments for weight loss, body contouring, cellulite and skin tightening in Muleshoe, TX.
+Live at https://muleshoebodystudio.com — landing page for Muleshoe Body Studio — invisa-RED™ red light laser treatments for weight loss, body contouring, cellulite and skin tightening in Muleshoe, TX.
 
 Stack: Astro 7 · Tailwind CSS 4 · static output, ready for Vercel.
 
