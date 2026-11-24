@@ -38,6 +38,9 @@ const ogImage = new URL(image, Astro.site ?? site.url).href;
     <meta name="twitter:image" content={ogImage} />
 
     {schema.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+    <!-- Vercel Web Analytics -->
+    <script is:inline>window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };</script>
+    <script is:inline defer src="/_vercel/insights/script.js"></script>
   </head>
   <body class="min-h-screen pb-20 md:pb-0">
     <slot />
